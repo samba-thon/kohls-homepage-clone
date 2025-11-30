@@ -14,7 +14,8 @@ This project is an educational clone of the Kohl's homepage, designed to demonst
 
 ## Notes
 
-- This is an educational project 
+- This is an educational project
 - Product images are sourced from Kohl's media server
 - All styling is custom CSS without external frameworks
 - No JavaScript functionality implemented
+- Promotional items are hardcoded for bootcamp purposes
